@@ -33,7 +33,7 @@ import requests
 
 # JNX Global High-Velocity TikTok Data Loop Endpoint
 # (The string split prevents URL shortening errors)
-url = "https://real-time-tiktok-analytics-viral-trends-api.p.rapidapi.com/trends"
+url = "https://real-time-tiktok-analytics-viral-trends-api.p.rapidapi.com/api/v1/tiktok/trends"
 
 # Paste your personal RapidAPI Key below to authenticate
 headers = {
