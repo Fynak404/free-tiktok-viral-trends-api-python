@@ -60,5 +60,5 @@ else:
 Please note that requests take an average of **30 seconds** to complete. Instead of rushing requests and triggering TikTok's 403/429 blocks, JNX Global executes an enterprise-grade programmatic validation loop. This guarantees a **100% success rate under peak load** and delivers clean, non-cached data every single time.
 
 ## 💼 Commercial & Enterprise Usage
-If you need high-throughput production usage (up to 2,500 requests per day or more), check out the **PRO and ULTRA plans** by visiting the pricing tab on our RapidAPI page:
+If you need high-throughput production usage (up to 750 requests per month or more), check out the **PRO and ULTRA plans** by visiting the pricing tab on our RapidAPI page:
 https://rapidapi.com/Fynak404/api/real-time-tiktok-analytics-viral-trends-api/pricing
